@@ -7,6 +7,9 @@ Key Features:
 * Product performance analysis
 * Monthly/quarterly/yearly sales growth
 * Sales forecasting
+<hr />
+<br />
+  
 ![Screenshot](https://github.com/Haneenksalam/Power-BI-Projects/blob/main/Sales%20Report.pdf)
 
 <hr />
